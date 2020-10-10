@@ -1,5 +1,5 @@
-# ClassMonitoring_AndroidApp
-Code samples of an android application for teachers to monitor students. 
+# ClassMonitoring_AndroidApp_Java
+Code samples of an android application in Java for teachers to monitor students. 
 Disclaimer: the code might not be optimal nor clean as it was one of my first project using Java and haven't had many programming projects in the past. I haven't taken the time to refactor it before pushing it today 10/10/2020.
 This is only a sample because the application might be used later by the school.
 
